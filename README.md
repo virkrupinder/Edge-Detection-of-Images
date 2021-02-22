@@ -1,1 +1,1 @@
-# Edge-Detection-of-Images
+# Edge-Detection-in-Images:UPC Decoding
