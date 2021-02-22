@@ -27,11 +27,7 @@ function [h,BtnAxis] = uinumedit(varargin)
 %         is Inf.
 %      'Min' - the minumum number that can be set within the box.  The default
 %         is -Inf.
-%
-%   See also SET, GET, UICONTROL
 
-% Jordan Rosenthal, 12/14/97
-% Revised 4/27/98
 
 nArgs = nargin;
 if nArgs == 0
