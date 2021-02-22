@@ -3,7 +3,7 @@ function dconvdemo()
 %   DCONVDEMO is a Graphical User Interface which illustrates the 
 %   calculation of discrete convolution.
 
-% Jordan Rosenthal, 06-Nov-2000
+
 
 %--------------------------------------------------------------------
 % Startup error checks
